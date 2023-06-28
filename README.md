@@ -1,7 +1,7 @@
 # Semantic_Similarity
 ## For HyperionDev Bootcamp
 
-### **This is T38**
+### **This is Task 38**
 
 This file uses spaCy.
 Follow these steps in your terminal:
@@ -26,13 +26,13 @@ and compares the abilities of both.
 #### ***Compulsory Task 2 - watch_next.py***
 
 This file uses spaCy. 
-For this file we will only use 'en_core_web_md'.
+For this file, we will only use 'en_core_web_md'.
 
 *Follow the steps above for install information* 👆🏻
 
 This code takes the description of a movie (Planet Hulk in this example) and compares this 
-description against a file (movies.txt) that containes a list of movies and their descriptions.
-This code be edited to read and movie descriptions and take different user inputs.
+description against a file (movies.txt) that contains a list of movies and their descriptions.
+This code be edited to read movie descriptions and take different user inputs.
 
 To find and compare values, I referenced this code[^1]:
 ```python
